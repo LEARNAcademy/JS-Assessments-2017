@@ -1,4 +1,4 @@
-# Javascript Course Assessment
+### Javascript Course Assessment
 
 ## Week 1 Assessment
 
