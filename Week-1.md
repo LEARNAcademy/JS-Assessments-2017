@@ -2,7 +2,7 @@
 
 ## Week 1 Assessment
 
-** Try your best to answer each question on your own before looking up the answer online. Once you're done writing your first answer, you can google the question and write the best answer you find.
+Try your best to answer each question on your own before looking up the answer online. Once you're done writing your first answer, you can google the question and write the best answer you find.
 
 1. Name some of the data types in Javascript.
 
