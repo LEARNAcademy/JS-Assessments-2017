@@ -20,7 +20,11 @@ Try your best to answer each question on your own before looking up the answer o
  //Googled Answer
  
  
-#### 3. The class "heading-box" exists in our html file - write the css code that would 1) align this box to the center of its container, 2) give it a black border that is 5px wide, and 3) make its text appear in the center of the box. 
+#### 3. The class "heading-box" exists in our html file - write the css code that would:
+##### 1) align this box to the center of its container, 
+##### 2) give it a black border that is 5px wide,
+##### 3) make its text appear in the center of the box
+
 
 #### 4. What is Bootstrap? Explain a few reasons that you might choose to use it in a project?
  
