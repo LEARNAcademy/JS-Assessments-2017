@@ -4,7 +4,7 @@
 
 Try your best to answer each question on your own before looking up the answer online. Once you're done writing your first answer, you can google the question and write the best answer you find.
 
-#### 1. Name some of the data types in Javascript.
+#### 1. Name all of the data types in Javascript, say which are primitives.
 
   //Your Answer
   
@@ -20,23 +20,27 @@ Try your best to answer each question on your own before looking up the answer o
   //Googled Answer
 
 
-#### 3. Write a function that takes one number as a parameter and decides if that number is divisble by three or not. If it is, print the number and "is divisible by three". If it is not, print that the number "is not divisble by three".
+#### 3. Write a function that takes one number as a parameter and decides if that number is evenly divisble by three or not. If it is, print the number and "is divisible by three". If it is not, print that the number "is not divisble by three".
 
-#### 4. What is JSON?
+
+#### 4. What is JSON? 
 
   //Your Answer
   
   
   //Googled Answer
+  
 
 #### 5. Write about yourself in an object, giving at least three properties of you. Then store your object in a variable with your name.
 
-#### 6. What is a closure?
+
+#### 6. Describe a closure, what is it good for and how do you recognize one?
 
   //Your Answer
   
   
   //Googled Answer
+  
 
 #### 7. What's the difference between =, ==, and === in JavaScript?
 
