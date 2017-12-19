@@ -12,7 +12,18 @@ Try your best to answer each question on your own before looking up the answer o
   //Googled Answer
 
 
-#### 2. Describe what "if" does in Javascript.
+#### 2. If we execute this Javascript, what will the browser's console show? Try this out in your console and explain what you see. 
+
+var text = 'outside';
+function logIt(){
+    console.log(text);
+    var text = 'inside';
+};
+
+logIt();
+
+
+#### 3. What is JSON? How does it relate to javascript objects?
 
   //Your Answer
   
@@ -20,10 +31,7 @@ Try your best to answer each question on your own before looking up the answer o
   //Googled Answer
 
 
-#### 3. Write a function that takes one number as a parameter and decides if that number is evenly divisble by three or not. If it is, print the number and "is divisible by three". If it is not, print that the number "is not divisble by three".
-
-
-#### 4. What is JSON? 
+#### 4. Describe a closure, what is it good for and how do you recognize one?
 
   //Your Answer
   
@@ -31,34 +39,7 @@ Try your best to answer each question on your own before looking up the answer o
   //Googled Answer
   
 
-#### 5. Write about yourself in an object, giving at least three properties of you. Then store your object in a variable with your name.
-
-
-#### 6. Describe a closure, what is it good for and how do you recognize one?
-
-  //Your Answer
-  
-  
-  //Googled Answer
-  
-
-#### 7. What's the difference between =, ==, and === in JavaScript?
-
-  //Your Answer
-  
-  
-  //Googled Answer
-
-#### 8. Create an array with at least 4 items inside it, then access two of the values and console.log() them. Try to access the two values in two different ways.
-
-#### 9. Describe the different kinds of loops and why you would use them.
-
-  //Your Answer
-  
-  
-  //Googled Answer
-  
-#### 10. How would you explain "scope" in javascript?
+#### 5. What's the difference between =, ==, and === in JavaScript?
 
   //Your Answer
   
