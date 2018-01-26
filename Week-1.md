@@ -12,7 +12,7 @@ Try your best to answer each question on your own before looking up the answer o
   //Googled Answer
 
 
-#### 2. If we execute this Javascript, what will the browser's console show? Try this out in your console and explain what you see. 
+#### 2. If we execute this Javascript, what will the browser's console show? Run this in console and then try explain what you see. 
 
 var text = 'outside';
 function logIt(){
