@@ -45,3 +45,10 @@ logIt();
   
   
   //Googled Answer
+
+
+#### 6. What does it mean that Javascript is "dynamically" typed?
+
+  // Your Answer
+  
+  // Googled Answer
